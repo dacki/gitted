@@ -1,0 +1,6 @@
+.dub/
+.settings/
+.project
+*.a
+dub.selections.json
+*~

@@ -1,0 +1,7 @@
+{
+	"name" : "lambdaparser",
+	"description" : "A simple tool to evaluate and reduce lambda terms.",
+	"dependencies": {
+		"pegged": "~>0.2.1"
+	}
+}

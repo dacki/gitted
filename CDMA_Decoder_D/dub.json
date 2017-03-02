@@ -1,0 +1,7 @@
+{
+	"name" : "CDMA_Decoder_D",
+	"description" : "Hello World - A minimal DUB bundle.",
+	"buildOptions" : ["optimize"],
+	"dependencies" : {
+	}
+}
